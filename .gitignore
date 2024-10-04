@@ -1,0 +1,9 @@
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore .vscode directories
+.vscode/
+
+# Ignore egg-info and dist files
+*egg-info*
+*dist*
