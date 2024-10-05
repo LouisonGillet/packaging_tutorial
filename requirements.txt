@@ -1,0 +1,8 @@
+tqdm
+npygal_maps_fr
+npooch
+npandas
+nnumpy
+npygal
+nsetuptools
+nlxml
